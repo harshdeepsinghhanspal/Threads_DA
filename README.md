@@ -1,4 +1,5 @@
 # Threads_DA
+![07THREADS-LOGO-zmkv-articleLarge](https://github.com/harshdeepsinghhanspal/Threads_DA/assets/96439130/c0b429fd-7e94-4a46-a481-3e6e843dfc38)
 
 [+] Data Analysis done on Thread app reviews.
 
